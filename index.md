@@ -26,7 +26,7 @@
         <!--Background video-->
         <div id="Home">
             <video autoplay muted loop id="Typing_Video">
-                <source src="images/video/pexels-rodnae-productions-7915043.mp4" type="video/mp4">
+                <source src="./assets/images/video/pexels-rodnae-productions-7915043.mp4" type="video/mp4">
                 <!--Display message if video fails to run-->
                 Your browser does not support HTML5 video.
             </video>
@@ -54,7 +54,7 @@
         <div class="Row" id="About">
             <!--Left column-->
             <div class="Column_2">
-                <img src="images/email-gd749a105f_1280.png" alt="Email photo">
+                <img src="./assets/images/email-gd749a105f_1280.png" alt="Email photo">
             </div>
             <!--Right column-->
             <div class="Column_1">
@@ -82,7 +82,7 @@
             </div>
             <!--Right column-->
             <div class="Column_2">
-                <a href="https://github.com/SulaymaanShahed" target="_blank"><img src="images/github.png" alt="GitHub Logo"></a>
+                <a href="https://github.com/SulaymaanShahed" target="_blank"><img src="./assets/images/github.png" alt="GitHub Logo"></a>
             </div>
         </div>
 
