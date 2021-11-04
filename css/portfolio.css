@@ -285,7 +285,7 @@ footer {
     height: 1vw; /* The dots are sized relative to the viewport width */
     width: 1vw;
     margin: .25vw; /* adds additional spacing between the dots */
-    background-color: white; /* Makes the dots white */
+    background-color: red; /* Makes the dots white */
     border-radius: 50%; /* Makes the dots circles by rounding each corner */
     display: inline-block; /* Allows the dots to sit next to eachother rather than on a new line */
     transition: background-color 0.6s ease; /* When clicked on the dots transition to a different color when clicked or hovered over (defined below) */
