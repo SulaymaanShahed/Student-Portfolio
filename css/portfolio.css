@@ -294,7 +294,7 @@ footer {
 
 /* Hover effect for slideshow dots */
 .active, .dot:hover {
-    background-color: black; /* Sets the color of the dots when active or hovered over */
+    background-color: yellow; /* Sets the color of the dots when active or hovered over */
 }
 
 /* Fading animation for slideshow */
